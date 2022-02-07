@@ -17,7 +17,7 @@
 .nav{
 	display: flex;
 	justify-content:space-between;
-	padding: 20px 30vw;
+	padding: 20px 14vw;
 }
 
 .logo{
@@ -55,7 +55,7 @@
 
 .servise-list:hover li,.servise-list:hover .service-first-item{
 	display:block;
-	color: 	#ffd24d;
+	color: 	#ffa500;
 	transition: 0.3s;
 	cursor: pointer;
 }
@@ -64,21 +64,21 @@
 .servise-list:hover .others-items{
 	position: relative;
 	left: -30px;
-	width: 8vw;
+	width: 13vw;
 	margin-top: 15px;
 	padding: 10px 30px;
 	background: #fff;
 }
 
 .service-item:hover a{
-	color: 	#ffd24d;
+	color: 	#ffa500;
 	transition: 0.3s;
 }
 
 .contact-us{
-	border: 2px solid #ffd24d;
+	border: 2px solid #ffa500;
 	border-radius: 4px;
-	padding: 15px 20px;
+	padding: 13px 25px;
 	font-weight: 900;
 	text-transform: uppercase;
 	background: none;
@@ -87,7 +87,7 @@
 }
 
 .contact-us:hover{
-	color: #ffd24d;
+	color: #ffa500;
 	transition: 0.3s;
 }
 
@@ -103,6 +103,6 @@
 }
 
 .about-us:hover{
-	color: #ffd24d;
+	color: #ffa500;
 	transition: 0.3s;
 }
